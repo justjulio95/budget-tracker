@@ -37,6 +37,8 @@ function saveRecord(record) {
 
   // add record to store with add method
   budgetObjectStore.add(record);
+
+  alert("You're offline, but your transaction has been recorded!")
 }
 
 function uploadBudget() {
