@@ -38,8 +38,8 @@ If there are any questions concerning this project, please open an issue or cont
 If you would like to see more of my work, please visit my [Github](https://github.com/justjulio95).
 
 ## Preview
-[!Preview of Budget Tracker on the web](imgs/BT-webpreview.png)
+![Preview of Budget Tracker on the web](imgs/BT-webpreview.png)
 
-[!Preview of Budget Tracker Chrome Icon installed](imgs/BT-chromeapp.png)
+![Preview of Budget Tracker Chrome Icon installed](imgs/BT-chromeapp.png)
 
-[!Preview of Budget Tracker App](imgs/BT-PWA.png)
+![Preview of Budget Tracker App](imgs/BT-PWA.png)
